@@ -1,2 +1,2 @@
-# doubleLinkedList.rs
-Some impelements of double linked list written in rut
+# Deque.rs
+Some impelements of double linked list written in rust.
